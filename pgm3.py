@@ -6,5 +6,5 @@ password=Label(parent,text="Password").grid(row=1,column=0)
 e2=Entry(parent).grid(row=1,column=1)
 submit=Button(parent,text="Submit").grid(row=4,column=0)
 parent.mainloop()
-
+print("hi")
 
